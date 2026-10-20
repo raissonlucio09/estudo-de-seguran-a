@@ -2,7 +2,7 @@
 
 Apresenta o universo hacker, quem são os atacantes, como se classificam e quais técnicas usam. Conhecer isso ajuda a se defender.
 
-## Conceitos
+Conceitos
 - Hacker: pessoa com muito conhecimento em tecnologia que busca falhas, sem causar prejuízo. Cracker: invade e usa, altera, rouba ou destrói informações
 - Lammer: iniciante com pouco conhecimento. Wannabe: usa programas sem entender o que fazem. Larva: já sabe o que as ferramentas fazem e cria as suas
 - Carder: fraude com cartões de crédito. Phreaker: fraude em telefonia. Defacer: altera páginas de sites
@@ -10,10 +10,10 @@ Apresenta o universo hacker, quem são os atacantes, como se classificam e quais
 - Script kiddie: baixa scripts prontos. Insider: atacante dentro da própria organização, muitas vezes funcionário insatisfeito
 - Qualquer pessoa pode atacar se tiver motivação: dinheiro, vingança, aceitação, curiosidade ou emoção
 
-## Exemplos e lugares aplicados
+ Exemplos e lugares aplicados
 Sites de governo como alvos de protesto e prestígio, empresas atacadas por funcionários insatisfeitos, e-mails falsos de bancos.
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 - Etapas do ataque: procurar o alvo (varredura de endereços, levantamento de informações como o WHOIS, varredura de portas, mapeamento da topologia, identificação do sistema operacional, busca de vulnerabilidades), selecionar o método e efetuar o ataque.
 - Técnicas de ataque (descritas só no nível de conceito):
   - DoS: sobrecarrega o alvo para tirá-lo do ar. DDoS: o mesmo, usando várias máquinas comprometidas ("zumbis" comandadas por "mestres").
