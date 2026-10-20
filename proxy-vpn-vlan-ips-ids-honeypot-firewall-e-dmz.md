@@ -2,7 +2,7 @@
 
 São tecnologias de segurança lógica que reduzem acessos indevidos e o uso da rede por pessoas sem autorização, protegendo a troca de dados entre os computadores.
 
-## Conceitos
+ Conceitos
 - Firewall: fica entre a rede interna e a externa, isolando e controlando o acesso (hardware ou software)
 - IDS (Sistema de Detecção de Intrusão): identifica atividades suspeitas. HIDS (no servidor) e NIDS (no segmento da rede)
 - IPS (Sistema de Prevenção de Intrusão): além de detectar, bloqueia o ataque (não detalhado no material)
@@ -12,10 +12,10 @@ São tecnologias de segurança lógica que reduzem acessos indevidos e o uso da 
 - DMZ (zona desmilitarizada): segmento acessível de fora, sem dados críticos
 - VLAN: rede virtual isolada dentro da rede física (veja o tópico de Segurança técnica)
 
-## Exemplos e lugares aplicados
+Exemplos e lugares aplicados
 Firewall na fronteira da empresa, VPN para o funcionário remoto e para ligar filiais, proxy que bloqueia sites e registra os acessos, servidor web na DMZ e banco de dados na zona interna.
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 - Firewall: comparado a um muro com portas. Cada porta nova facilita o acesso, mas também precisa de controle. Controla por serviço, sentido, usuário e comportamento, e registra o tráfego.
 - IDS: o HIDS gera poucos falsos positivos e vê o comportamento das aplicações da máquina. O NIDS gera mais falsos positivos e fica perto de roteadores e firewalls analisando pacotes, mas não vê ataques feitos direto na máquina. Nenhum IDS protege 100%, mas diminui o risco.
 - VPN: reduz custos de links dedicados e conecta filiais, parceiros e funcionários em casa. O túnel voluntário é criado pelo software do usuário. O túnel compulsório é criado pelos equipamentos da rede, sem software no cliente.
