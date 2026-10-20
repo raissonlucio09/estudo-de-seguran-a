@@ -2,17 +2,17 @@
 
 Tolerância a falhas (fault tolerance) é manter o serviço funcionando mesmo com a presença de uma falha. Ela aumenta a disponibilidade dos ativos de TI de que os processos de negócio dependem.
 
-## Conceitos
+ Conceitos
 - Falha (fault): problema, defeito ou erro. As falhas são inevitáveis, porque os componentes envelhecem, se desgastam e sofrem interferências
 - Falhas comuns: queda de energia, falha de switch ou roteador, defeito de hardware do servidor, falha de software ou vírus, problemas no data center (desastres, incêndio, ações criminosas)
 - Disponibilidade medida em "noves"
 - Níveis: disponibilidade básica, alta disponibilidade e disponibilidade contínua
 - Replicação de dados, virtualização e uso de SLA com terceiros
 
-## Exemplos e lugares aplicados
+ Exemplos e lugares aplicados
 Segunda fonte de energia no servidor, segundo link de internet, segunda placa de rede, sistemas de UTI e satélites (que não podem parar).
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 Indisponibilidade aproximada por nível de disponibilidade:
 
 | Disponibilidade | Indisponibilidade por ano |
