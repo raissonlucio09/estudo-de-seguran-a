@@ -2,7 +2,7 @@
 
 Como não existe segurança 100%, os componentes de segurança precisam interagir entre si para reduzir a chance de erros e incidentes. Este tópico trata de hash, assinatura e certificado digital, PKI, VLAN e segurança de redes sem fio.
 
-## Conceitos
+Conceitos
 - Hash: função unidirecional que gera um resumo de tamanho fixo (MD5: 128 bits, SHA: 160 bits). Garante a integridade
 - Assinatura digital: código que identifica o autor da mensagem em meio digital
 - Autoridade Certificadora (CA, "cartório digital"): emite certificados digitais
@@ -12,10 +12,10 @@ Como não existe segurança 100%, os componentes de segurança precisam interagi
 - VLAN: rede local virtual que isola grupos de computadores
 - Redes sem fio: WEP, WPA (Personal e Enterprise), Rogue AP, VPN, filtro de MAC
 
-## Exemplos e lugares aplicados
+ Exemplos e lugares aplicados
 Conferir o hash de um arquivo baixado, navegador que valida o certificado de uma loja virtual, Wi-Fi corporativo com servidor RADIUS.
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 - Hash: fácil de calcular e difícil de inverter, como resumir um livro. Mudar um único caractere muda todo o resultado. Exemplo: MD5 de "Gabriella" = 88f418d385fe30d5a2bfd3e17c732b28 e de "Gabriela" = 3045c3c6443d58c4e72e76fbcbcb2df3.
 - Usos do hash: o resumo é enviado junto com a mensagem, e o destinatário calcula de novo e compara; se for diferente, a mensagem foi alterada. Também serve para conferir arquivos baixados.
 - Observação: hoje MD5 e SHA-1 não são mais considerados seguros, porque já foram encontradas colisões. Usa-se SHA-256 ou mais forte.
