@@ -2,16 +2,16 @@
 
 Como não existe segurança 100%, a empresa precisa de planos para continuar operando, mesmo que parcialmente, quando um incidente acontece. Isso vai além de alta disponibilidade e backup.
 
-## Conceitos
+Conceitos
 - PCN (Plano de Continuidade dos Negócios), também chamado de BCP: foco nos negócios e nas pessoas durante e depois da interrupção
 - BIA (Análise de Impacto nos Negócios): identifica a relevância dos processos e o tempo máximo que a empresa sobrevive sem eles, incluindo impactos financeiros, jurídicos e de imagem
 - RTO (Recovery Time Objective): tempo máximo aceitável para o processo voltar a funcionar. RPO (Recovery Point Objective): até que ponto no tempo os dados devem ser restaurados, ligado à frequência do backup
 - Sistemas críticos: aqueles cuja indisponibilidade causa perdas irreversíveis financeiras ou jurídicas
 
-## Exemplos e lugares aplicados
+ Exemplos e lugares aplicados
 Empresas que, no 11 de setembro de 2001, tinham o site de contingência na torre ao lado da principal e ficaram sem condição de operar.
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 - Subplanos do PCN:
   - PAC (Programa de Administração de Crise): organiza equipes e um centro de comando.
   - PRD ou DRP (Plano de Recuperação de Desastres): focado em TI, restaura o ambiente às condições anteriores ao incidente.
