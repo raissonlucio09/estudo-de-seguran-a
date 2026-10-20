@@ -2,16 +2,16 @@
 
 RAID (Redundant Array of Independent Disks) é um conjunto de discos independentes que trabalham juntos como uma única unidade lógica, para aumentar o desempenho e a tolerância a falhas. Clusters usam vários servidores para aumentar a disponibilidade.
 
-## Conceitos
+Conceitos
 - Termos: array (conjunto de discos), hot spare (disco reserva pronto para uso), rebuild (reconstrução do disco que falhou) e HDC (conectar e desconectar HDs a quente)
 - RAID por hardware (placa controladora, melhor desempenho, mais caro) ou por software (feito pelo sistema operacional, mais barato e mais lento)
 - Cluster: conjunto de servidores (nós) que parecem um só para o usuário
 - Failover: o sistema assume sozinho, sem intervenção humana, quando um servidor falha
 
-## Exemplos e lugares aplicados
+ Exemplos e lugares aplicados
 Servidores que usam RAID 1 para o sistema operacional e RAID 5 para os dados, clusters de banco de dados e de servidores web.
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 
 | Nível | Como funciona | Mínimo de discos | Ponto principal |
 |---|---|---|---|
