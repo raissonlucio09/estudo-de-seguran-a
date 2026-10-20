@@ -2,16 +2,16 @@
 
 Backup é uma cópia de segurança feita para recuperar dados quando necessário. A política de backup define as atividades para proteger os dados da empresa e permitir a continuidade dos negócios depois de um incidente.
 
-## Conceitos
+ Conceitos
 - A política de backup trata de: tecnologia, volume de dados, periodicidade, tempo de guarda, janela de backup, responsáveis, procedimentos, armazenamento e tipos de mídia, custos, replicação, testes de restauração e conscientização dos usuários
 - Atributo do arquivo: a maioria dos programas marca um atributo para saber se o arquivo é novo ou foi alterado desde o último backup
 - Janela de backup: tempo disponível para executar o backup em um volume de dados
 - Cinco tipos de backup: diário, cópia, full (normal), incremental e diferencial
 
-## Exemplos e lugares aplicados
+ Exemplos e lugares aplicados
 Backup full no domingo e incremental de segunda a sábado, uso de agentes para copiar bancos de dados e correio eletrônico, mídias como fitas, HDs, NAS e SAN.
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 
 | Tipo | O que copia | Mexe no atributo? |
 |---|---|---|
