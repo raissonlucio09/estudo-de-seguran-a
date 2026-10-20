@@ -2,7 +2,7 @@
 
 Para proteger a informação é preciso conhecer o seu ciclo de vida e classificá-la de acordo com a sua importância e sensibilidade, para aplicar o nível certo de proteção em cada caso.
 
-## Conceitos
+ Conceitos
 - Ciclo de vida da informação: manuseio (criação), armazenamento, transporte (envio) e descarte (término do uso)
 - CIDAL:
   - Confidencialidade: só pessoas autorizadas acessam
@@ -13,7 +13,7 @@ Para proteger a informação é preciso conhecer o seu ciclo de vida e classific
 - Também citados: o fator "Humano" (conflito entre as necessidades das pessoas e as medidas de segurança) e a "Administração" (acompanhar as mudanças no cenário)
 - Política de classificação: documento definido pela alta administração que estabelece os rótulos, os critérios e a proteção de cada nível
 
-## Exemplos e lugares aplicados
+ Exemplos e lugares aplicados
 Organização dos produtos de um supermercado por características. Rótulos de classificação nas empresas:
 
 | Rótulo | Significado |
@@ -24,7 +24,7 @@ Organização dos produtos de um supermercado por características. Rótulos de 
 | Interna | Só funcionários e colaboradores da empresa |
 | Pública | Qualquer pessoa, sem impacto se divulgada |
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 - Momentos do ciclo de vida: no manuseio a informação é criada ou alterada (digitar um texto, uma senha); no armazenamento é guardada em papel, arquivo, banco de dados ou mídia; no transporte sai de um lugar para outro (rede, fax, relatório em papel); no descarte é eliminada (lixo, arquivo apagado, CD jogado fora).
 - Classificar é colocar em ordem usando parâmetros claros, porque pessoas diferentes interpretam os rótulos de modos diferentes.
 - A classificação existe porque as informações têm níveis diferentes de confidencialidade. Proteger tudo no máximo desperdiça recursos, e não proteger deixa a empresa exposta.
