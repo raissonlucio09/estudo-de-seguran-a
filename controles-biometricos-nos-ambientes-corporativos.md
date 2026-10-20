@@ -2,17 +2,17 @@
 
 Biometria é o uso automatizado de características físicas ou comportamentais de uma pessoa para verificar ou determinar a sua identidade. É uma das formas mais seguras de controlar o acesso a áreas restritas.
 
-## Conceitos
+ Conceitos
 - A palavra vem do grego: "bios" (vida) e "metron" (medida)
 - Elementos físicos (partes do corpo) e comportamentais (ações do indivíduo, medidas indiretas)
 - Componentes mínimos: sensor, computador para ler e armazenar os dados e software (algoritmo) que compara com um template (modelo) guardado
 - TFA (taxa de falsa aceitação): aceita uma pessoa diferente da cadastrada. TFR (taxa de falsa rejeição): rejeita um usuário legítimo
 - Precisão, velocidade, custo, aceitação das pessoas e intrusividade são critérios para escolher a tecnologia
 
-## Exemplos e lugares aplicados
+ Exemplos e lugares aplicados
 Acesso ao data center por impressão digital, ponto eletrônico, controle de acesso a salas restritas.
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 - Funcionamento: o usuário se cadastra, e sua característica é guardada como template (planilha biométrica). Depois, a característica é capturada de novo e comparada com a guardada.
 - Digital: a mais antiga e popular, com sensores baratos. Analisa as minúcias (terminações e bifurcações dos sulcos).
 - Facial: não exige contato, mas é complexa porque o rosto muda com o tempo. Mede as proporções do rosto.
