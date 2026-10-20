@@ -1,8 +1,8 @@
-# Tipos de vírus de computador: Worm, Trojan, Hoax, Backdoor e outros
+ # Tipos de vírus de computador: Worm, Trojan, Hoax, Backdoor e outros
 
 Vírus de computador é um programa autorreplicante que se anexa a outros programas para se espalhar. Vírus e programas parecidos geram grande carga de trabalho para o administrador de redes.
 
-## Conceitos
+ Conceitos
 - Vírus de boot: infecta a área de inicialização de discos e mídias e pode impedir o login
 - Trojan (cavalo de troia): fica escondido dentro de um programa aparentemente inofensivo
 - Worm: não precisa de programa hospedeiro, é autossuficiente e se espalha pela rede
@@ -12,10 +12,10 @@ Vírus de computador é um programa autorreplicante que se anexa a outros progra
 - Malwares: spyware, adware, hijacker, keylogger e screenlogger
 - Antivírus: compara os arquivos com uma biblioteca de assinaturas de vírus
 
-## Exemplos e lugares aplicados
+ Exemplos e lugares aplicados
 Vírus famosos: Melissa, I Love You, Nimda e Code Red.
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 - Efeitos: lentidão, alteração e exclusão de arquivos, mensagens indesejadas, captura de teclas, abertura de portas para acesso externo, reprodução ilimitada e indisponibilidade de computadores.
 - Como entravam: antes, por disquetes; depois, por redes, e-mail, internet, downloads de executáveis (.exe, .bat, .com) e macros do Office. Falhas de política, como usuários no grupo de administrador da máquina, facilitam a infecção.
 - Vírus famosos:
