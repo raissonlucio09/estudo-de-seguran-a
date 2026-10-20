@@ -2,7 +2,7 @@
 
 Criptografia é a técnica de transmitir informações de forma codificada para que, se forem interceptadas, não possam ser lidas por quem não tem autorização. Contribui principalmente para a confidencialidade e a integridade.
 
-## Conceitos
+ Conceitos
 - Criptografar (encriptar): transformar o texto simples em texto cifrado, com um algoritmo e uma chave. Descriptografar: o processo inverso
 - Chave: informação necessária para cifrar e decifrar
 - Criptoanálise: ciência que tenta quebrar sistemas criptográficos sem conhecer a chave
@@ -11,10 +11,10 @@ Criptografia é a técnica de transmitir informações de forma codificada para 
 - Criptografia simétrica: uma mesma chave cifra e decifra
 - Criptografia assimétrica: par de chaves, pública e privada
 
-## Exemplos e lugares aplicados
+Exemplos e lugares aplicados
 Máquina Enigma na Segunda Guerra Mundial, Cifra de César, proteção de dados em notebooks e de comunicações na internet.
 
-## Minhas anotações da aula
+ Minhas anotações da aula
 - Transposição: UNINOVE vira INVEOUN (as letras são preservadas, mudam de posição). Substituição: trocando cada letra pela seguinte, UNINOVE vira VOJOPWF.
 - Cifra de César: substituição por deslocamento, em que a chave é o número de posições. Com chave 3, AMOR vira DPRU.
 - Simétrica:
